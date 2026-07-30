@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Allen MT Maliyil
 ### `DarkWolfHunter007` · Full-Stack Developer · AI Engineer · Browser Extension Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+🤖;Crafting+browser+extensions+🧩;Shipping+elegant+web+experiences+🌐;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+%F0%9F%A4%96;Crafting+browser+extensions+%F0%9F%A7%A9;Shipping+elegant+web+experiences+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
