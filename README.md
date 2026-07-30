@@ -130,17 +130,22 @@ An educational website presenting India's iconic historical monuments with rich 
 
 <div align="center">
 
-<!-- Streak Stats - powered by demolab (reliable) -->
+<!-- Streak Stats — demolab (always reliable) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=DarkWolfHunter007&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=F59E0B&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=7C3AED)](https://github.com/DarkWolfHunter007)
 
 <br/>
 
-<!-- Top Languages - powered by github-readme-stats (use your own Vercel deploy for best reliability) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWolfHunter007&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=7200" alt="Top Languages" />
+<!-- Languages I use — shields.io (no rate limits, always up) -->
+**Languages I work with:**
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-★★★★☆-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-★★★☆☆-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <br/>
 
-<!-- Activity Graph - powered by github-readme-activity-graph (different, reliable service) -->
+<!-- Activity Graph — github-readme-activity-graph (separate, reliable service) -->
 [![Allen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkWolfHunter007&bg_color=0d1117&color=7C3AED&line=F59E0B&point=F59E0B&area=true&hide_border=true)](https://github.com/DarkWolfHunter007)
 
 </div>
