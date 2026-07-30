@@ -130,15 +130,18 @@ An educational website presenting India's iconic historical monuments with rich 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkWolfHunter007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=F59E0B&text_color=c9d1d9" />
+<!-- Streak Stats - powered by demolab (reliable) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarkWolfHunter007&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=F59E0B&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=7C3AED)](https://github.com/DarkWolfHunter007)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWolfHunter007&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
+<br/>
 
-</div>
+<!-- Top Languages - powered by github-readme-stats (use your own Vercel deploy for best reliability) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWolfHunter007&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=7200" alt="Top Languages" />
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarkWolfHunter007&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=F59E0B&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=7C3AED)](https://git.io/streak-stats)
+<!-- Activity Graph - powered by github-readme-activity-graph (different, reliable service) -->
+[![Allen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkWolfHunter007&bg_color=0d1117&color=7C3AED&line=F59E0B&point=F59E0B&area=true&hide_border=true)](https://github.com/DarkWolfHunter007)
 
 </div>
 
